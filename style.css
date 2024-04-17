@@ -74,6 +74,45 @@ main {
     flex: 1 0 470px;
 }
 
+
+.sudeste:hover {
+
+
+    fill: #7c0000;
+
+}
+
+.sul:hover {
+
+
+    fill: #003c74;
+
+}
+
+
+.centro-oeste:hover {
+
+fill: #853c00;
+
+}
+
+
+.nordeste:hover {
+
+fill: #5d0081;
+
+}
+
+
+
+.norte:hover {
+
+
+    fill: #004606;
+
+}
+
+
 div.map {
     min-width: 60%;
 }
