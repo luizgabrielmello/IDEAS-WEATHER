@@ -17,6 +17,7 @@ const direcWind = document.querySelector('#direcWind')
 const latitude = document.querySelector('#latitude')
 const longitude = document.querySelector('#longitude')
 
+
 function imageForecast(icon) {
     return `img/iconPrevisaoTempo/campoPrevisao/${icon}.png`
 }
