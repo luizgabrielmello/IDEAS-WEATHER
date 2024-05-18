@@ -10,6 +10,8 @@ const forecast = document.querySelector('#forecast')
 const rain = document.querySelector('#rain')
 const humidity = document.querySelector('#humidity')
 
+
+
 //resultado da previsão
 function resultForecast(dados) {
     if(!dados.name) {
